@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "94//PFHlNEMWz2kZm7YkUpDB86fleaCu8S3sXbjUkRA=",
+  "Source": "OcelotAPIGw",
+  "BasePath": "_content/OcelotAPIGw",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

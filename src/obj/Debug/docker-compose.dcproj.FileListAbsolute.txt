@@ -1,0 +1,1 @@
+C:\Users\David\Desktop\Proyectos .NET\OcelotGateway\src\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

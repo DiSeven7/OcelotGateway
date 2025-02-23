@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\David\\Desktop\\Proyectos .NET\\OcelotGateway\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{754E6043-C873-422C-B904-C15A336E9592}|OcelotAPIGw\\OcelotAPIGw.csproj|c:\\users\\david\\desktop\\proyectos .net\\ocelotgateway\\src\\ocelotapigw\\authenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754E6043-C873-422C-B904-C15A336E9592}|OcelotAPIGw\\OcelotAPIGw.csproj|solutionrelative:ocelotapigw\\authenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB1B9B5-56D1-40BC-985E-01B1B7A4C4DE}|docker-compose.dcproj|c:\\users\\david\\desktop\\proyectos .net\\ocelotgateway\\src\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2AB1B9B5-56D1-40BC-985E-01B1B7A4C4DE}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754E6043-C873-422C-B904-C15A336E9592}|OcelotAPIGw\\OcelotAPIGw.csproj|c:\\users\\david\\desktop\\proyectos .net\\ocelotgateway\\src\\ocelotapigw\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{754E6043-C873-422C-B904-C15A336E9592}|OcelotAPIGw\\OcelotAPIGw.csproj|solutionrelative:ocelotapigw\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754E6043-C873-422C-B904-C15A336E9592}|OcelotAPIGw\\OcelotAPIGw.csproj|c:\\users\\david\\desktop\\proyectos .net\\ocelotgateway\\src\\ocelotapigw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754E6043-C873-422C-B904-C15A336E9592}|OcelotAPIGw\\OcelotAPIGw.csproj|solutionrelative:ocelotapigw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754E6043-C873-422C-B904-C15A336E9592}|OcelotAPIGw\\OcelotAPIGw.csproj|c:\\users\\david\\desktop\\proyectos .net\\ocelotgateway\\src\\ocelotapigw\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{754E6043-C873-422C-B904-C15A336E9592}|OcelotAPIGw\\OcelotAPIGw.csproj|solutionrelative:ocelotapigw\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754E6043-C873-422C-B904-C15A336E9592}|OcelotAPIGw\\OcelotAPIGw.csproj|c:\\users\\david\\desktop\\proyectos .net\\ocelotgateway\\src\\ocelotapigw\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{754E6043-C873-422C-B904-C15A336E9592}|OcelotAPIGw\\OcelotAPIGw.csproj|solutionrelative:ocelotapigw\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\David\\Desktop\\Proyectos .NET\\OcelotGateway\\src\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\David\\Desktop\\Proyectos .NET\\OcelotGateway\\src\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-02-23T14:23:57.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthenticationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Desktop\\Proyectos .NET\\OcelotGateway\\src\\OcelotAPIGw\\AuthenticationHandler.cs",
+              "RelativeDocumentMoniker": "OcelotAPIGw\\AuthenticationHandler.cs",
+              "ToolTip": "C:\\Users\\David\\Desktop\\Proyectos .NET\\OcelotGateway\\src\\OcelotAPIGw\\AuthenticationHandler.cs",
+              "RelativeToolTip": "OcelotAPIGw\\AuthenticationHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T22:41:51.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\David\\Desktop\\Proyectos .NET\\OcelotGateway\\src\\OcelotAPIGw\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "OcelotAPIGw\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\David\\Desktop\\Proyectos .NET\\OcelotGateway\\src\\OcelotAPIGw\\Properties\\launchSettings.json",
+              "RelativeToolTip": "OcelotAPIGw\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAIBJwB0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-22T22:30:54.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\David\\Desktop\\Proyectos .NET\\OcelotGateway\\src\\OcelotAPIGw\\appsettings.json",
+              "RelativeDocumentMoniker": "OcelotAPIGw\\appsettings.json",
+              "ToolTip": "C:\\Users\\David\\Desktop\\Proyectos .NET\\OcelotGateway\\src\\OcelotAPIGw\\appsettings.json",
+              "RelativeToolTip": "OcelotAPIGw\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-22T22:30:52.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Desktop\\Proyectos .NET\\OcelotGateway\\src\\OcelotAPIGw\\Program.cs",
+              "RelativeDocumentMoniker": "OcelotAPIGw\\Program.cs",
+              "ToolTip": "C:\\Users\\David\\Desktop\\Proyectos .NET\\OcelotGateway\\src\\OcelotAPIGw\\Program.cs",
+              "RelativeToolTip": "OcelotAPIGw\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:23:51.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "C:\\Users\\David\\Desktop\\Proyectos .NET\\OcelotGateway\\src\\OcelotAPIGw\\ocelot.json",
+              "RelativeDocumentMoniker": "OcelotAPIGw\\ocelot.json",
+              "ToolTip": "C:\\Users\\David\\Desktop\\Proyectos .NET\\OcelotGateway\\src\\OcelotAPIGw\\ocelot.json",
+              "RelativeToolTip": "OcelotAPIGw\\ocelot.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-22T15:13:48.59Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

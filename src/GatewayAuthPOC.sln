@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsersAPI", "UsersAPI\UsersAPI.csproj", "{88BEB6E8-C924-4A7C-B4E2-443E82E512B1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{6B96F630-BCC8-486B-903D-182F23B4B266}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "APIGateway", "APIGateway", "{F69327A3-3371-4AE5-A305-5C7034E684DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OcelotAPIGw", "OcelotAPIGw\OcelotAPIGw.csproj", "{754E6043-C873-422C-B904-C15A336E9592}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{2AB1B9B5-56D1-40BC-985E-01B1B7A4C4DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88BEB6E8-C924-4A7C-B4E2-443E82E512B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88BEB6E8-C924-4A7C-B4E2-443E82E512B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88BEB6E8-C924-4A7C-B4E2-443E82E512B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88BEB6E8-C924-4A7C-B4E2-443E82E512B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{754E6043-C873-422C-B904-C15A336E9592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{754E6043-C873-422C-B904-C15A336E9592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{754E6043-C873-422C-B904-C15A336E9592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{754E6043-C873-422C-B904-C15A336E9592}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AB1B9B5-56D1-40BC-985E-01B1B7A4C4DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AB1B9B5-56D1-40BC-985E-01B1B7A4C4DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AB1B9B5-56D1-40BC-985E-01B1B7A4C4DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AB1B9B5-56D1-40BC-985E-01B1B7A4C4DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{88BEB6E8-C924-4A7C-B4E2-443E82E512B1} = {6B96F630-BCC8-486B-903D-182F23B4B266}
+		{754E6043-C873-422C-B904-C15A336E9592} = {F69327A3-3371-4AE5-A305-5C7034E684DA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,35 @@
+{
+    "GlobalConfiguration": {
+        "BaseUrl": "https://localhost:14001"
+    },
+
+    "Routes": [
+        {
+            "UpstreamPathTemplate": "/api/Users",
+            "UpstreamHttpMethod": [ "GET", "POST" ],
+            "DownstreamScheme": "https",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "usersapi",
+                    "Port": 8081
+                }
+            ],
+            "DownstreamPathTemplate": "/api/Users",
+            "DangerousAcceptAnyServerCertificateValidator": true,
+            "SwaggerKey": "Users"
+        }
+    ],
+
+    "SwaggerEndPoints": [
+        {
+            "Key": "Users",
+            "Config": [
+                {
+                    "Name": "Users API",
+                    "Version": "v1",
+                    "Url": "https://localhost:14001/swagger/index.html"
+                }
+            ]
+        }
+    ]
+}
